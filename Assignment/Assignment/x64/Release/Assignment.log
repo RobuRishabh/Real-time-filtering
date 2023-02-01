@@ -1,0 +1,9 @@
+﻿  filter.cpp
+E:\PRCV Assignments\Assignment 1\Assignment\Assignment\filter.cpp(133,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  imgDisplay.cpp
+  vidDisplay.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 154 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment.vcxproj -> E:\PRCV Assignments\Assignment 1\Assignment\x64\Release\Assignment.exe
